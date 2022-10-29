@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 pizza
 pasta
+=======
+thor
+dr_strange
+>>>>>>> movies
